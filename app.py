@@ -1,15 +1,16 @@
-import streamlit as st
-import pandas as pd
+import os
 import random
+import pandas as pd
+import streamlit as st
 
 # ================== SETTINGS ==================
 st.set_page_config(page_title="Quiz App", layout="centered")
 
 FILES = {
-    "APP": "question_LTC_APP.csv",
-    "TWR": "question_LTC_TWR.csv",
-    "SUP": "question_LTC_SUP.csv",
-    "LTCS": "question_LTCS.csv",
+    "APP": "data/question_LTC_APP.csv",
+    "TWR": "data/question_LTC_TWR.csv",
+    "SUP": "data/question_LTC_SUP.csv",
+    "LTCS": "data/question_LTCS.csv",
 }
 
 PASS_RULES = {
@@ -20,6 +21,10 @@ PASS_RULES = {
 
 # ================== HELPERS ==================
 def load_csv_safe(path: str) -> pd.DataFrame:
+    if not os.path.exists(path):
+        st.error(f"❌ Không tìm thấy file dữ liệu: {path}")
+        st.stop()
+
     try:
         return pd.read_csv(path, encoding="utf-8-sig")
     except Exception:
@@ -39,8 +44,18 @@ def build_quiz(selected_quiz_type: str, selected_mode: str) -> pd.DataFrame:
     else:
         main_n = min(35, len(df_main))
         ltcs_n = min(15, len(df_ltcs))
-        df_main_sample = df_main.sample(n=main_n, replace=False, random_state=random.randint(1, 999999))
-        df_ltcs_sample = df_ltcs.sample(n=ltcs_n, replace=False, random_state=random.randint(1, 999999))
+
+        df_main_sample = df_main.sample(
+            n=main_n,
+            replace=False,
+            random_state=random.randint(1, 999999)
+        )
+        df_ltcs_sample = df_ltcs.sample(
+            n=ltcs_n,
+            replace=False,
+            random_state=random.randint(1, 999999)
+        )
+
         df_final = pd.concat([df_main_sample, df_ltcs_sample], ignore_index=True)
 
     df_final = df_final.fillna("")
@@ -141,6 +156,7 @@ if "questions" in st.session_state:
 
     total_answered = len(st.session_state.get("answers", {}))
     total_questions = len(questions_df)
+
     if total_questions > 0:
         st.progress(total_answered / total_questions)
         st.caption(f"Đã chọn: {total_answered}/{total_questions} câu")
@@ -179,7 +195,6 @@ if "questions" in st.session_state:
             chosen_key = answer.split(".", 1)[0].strip()
             st.session_state["answers"][i] = chosen_key
 
-        # Hiển thị đúng/sai ngay trong chế độ luyện tập và tất cả câu hỏi
         if current_mode != "Thi thử" and answer:
             chosen_key = answer.split(".", 1)[0].strip()
             if chosen_key == row["correct_answer"]:
