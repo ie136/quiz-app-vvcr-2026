@@ -1,0 +1,164 @@
+﻿question,A,B,C,D,correct_answer,category,type
+A visual docking guidance system shall be provided:,"when it is intended to indicate, by a visual aid, the precise
+positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.","when it is intended to indicate, by a visual aid, the precise
+positioning of an aircraft on an aircraft stand .","when it is intended to indicate, by a visual aid, the precise
+positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.","when it is intended to indicate, by a visual aid, the precise
+positioning of an aircraft on an aircraft stand and other alternative means, such as marshallers, are not practicable.",B,Air traffic control service shall be:,LTC_TWR
+"The azimuth guidance unit and the stopping position indicator shall be of a design such that:
+ a) a clear indication of malfunction of either or both is available to the pilot; and
+ b) they can be turned off.",A,B,A and B,None of the above.,C,Air traffic control service shall be:,LTC_TWR
+"The road-holding position light shall comprise:
+ a) a controllable red (stop)/green (go) traffic light; or
+ b) a flashing-red light.",A,B,A and B,None of the above.,C,Air traffic control service shall be:,LTC_TWR
+"A runway vacated sign shall be located at least on one side of the taxiway. The distance between the sign and
+the centre line of a runway shall be not less than the greater of the following:
+ a) the distance between the centre line of the runway and the perimeter of the ILS/MLS critical/sensitive area; or
+ b) the distance between the centre line of the runway and the lower edge of the inner transitional surface.",A,B,A and B,None of the above.,C,Air traffic control service shall be:,LTC_TWR
+"Precision approach runway, category II","A runway served by visual aids and non-visual aid(s) intended for landing
+operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft)
+but not lower than 30 m (100 ft) and a runway visual range not less than 300 m.","A runway served by visual aids and non-visual aid(s) intended for landing
+operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft)
+but not lower than 30 m (100 ft) and a runway visual range not less than 200 m.","A runway served by visual aids and non-visual aid(s) intended for landing
+operations following an instrument approach operation type B with a decision height (DH) lower than 60 m (200 ft)
+but not lower than 30 m (100 ft) and a runway visual range not less than 400 m.",all are not correct,A,Air traffic control service shall be:,LTC_TWR
+Take-off runway is,A runway intended for take-off only.,A runway intended for landing only.,A part of runway intended for take-off only.,A runway intended for take-off and landing.,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+World Geodetic System — 1984 (WGS-84) shall be used as the horizontal (geodetic) reference system. Reported aeronautical geographical coordinates (indicating latitude and longitude) shall be expressed in terms of …..?,the WGS-84 geodetic reference datum.,the WGS-84 and GNSS geodetic reference datum.,the WGS-84 geodetic reference hight.,the WGS-84 geodetic reference altitude.,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+wingspan in Aerodrome reference code E  is,52 m up to but not including 65 m,48 m up to but not including 65 m,52 m up to but not including  68m,42 m up to but not including 65 m,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"A wind direction indicator is located at :
+and in such a way as to be free from the effects of air disturbances caused by nearby objects.",shall be located so as to be visible from aircraft in flight or on the movement area,shall be located so as to be visible from aircraft in flight or on the landing area,shall be located so as to be visible from aircraft in flight or on the taxing area,shall be located so as to be visible from aircraft in flight or on the parking area,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+Touchdown zone (TDZ) lights shall be provided in the touchdown zone of a precision approach runway …?,category II or III.,category I or III.,category I or II.,category I .,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+Arrival reports made by aircraft shall contain the following elements of information:,"a) aircraft identification; 
+ b) departure aerodrome; 
+ c) destination aerodrome (only in the case of a diversionary landing); 
+ d) arrival aerodrome; 
+ e) time of arrival.","a) aircraft identification; 
+ b) departure aerodrome; 
+ c) destination aerodrome (only in the case of a diversionary landing); 
+ d) arrival aerodrome;","a) aircraft identification; 
+ b) departure aerodrome; 
+ c) destination aerodrome (only in the case of a diversionary landing); 
+ d) time of arrival.","a) aircraft identification; 
+ b) departure aerodrome;  
+ c) arrival aerodrome; 
+ d) time of arrival.",A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+Runway strip including :,A defined area including the runway and stopway,A defined area including only the runway,"A defined area including the runway, stopway and clearway",non of above,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+purpose of Runway strip :,to reduce the risk of damage to aircraft running off a runway,to protect aircraft flying over it during take-off or landing operations,A and B,non of above,C,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"Information on pavement type for ACN-PCN determination, leter R is :",Rigid pavement,Flexible pavement,A and B,non of above,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"Information on pavement type for ACN-PCN determination, leter F is :",Rigid pavement,Flexible pavement,A and B,non of above,B,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+Declared distances are including :,take-off run available,take-off distance available,accelerate-stop distance available and landing distance available,all of above,D,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+How many Aerodrome reference point in Noi Bai international airport:,1,2,3,4,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+The cruising levels at which a flight or a portion of a flight is to be conducted shall be in terms of :,"flight levels, for flights at or above the lowest usable flight level or, where applicable, above the transition altitude;","altitudes, for flights below the lowest usable flight level or, where applicable, at or below the transition altitude.",A and B,non of above,C,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+Aerodrome control towers are responsible for alerting the rescue and fire fighting services whenever:,an aircraft accident has occurred on or in the vicinity of the aerodrome,"information is received that the safety of an aircraft which is or will come under the jurisdiction of the 
+aerodrome control tower may have or has been impaired",requested by the flight crew or when otherwise deemed necessary or desirable.,"A, B and C",D,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"The term “runway-in-use” shall be used to indicate the runway or runways that, at a particular time, are 
+considered by the………..  to be the most suitable for use by the types of aircraft expected to land or take 
+off at the aerodrome.",aerodrome control tower,approach control unit,area control unit,airport authority,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"In the event the aerodrome controller, after a take-off clearance or a landing clearance has been issued, 
+becomes aware of a runway incursion or the imminent occurrence thereof, or the existence of any obstruction on or in 
+close proximity to the runway likely to impair the safety of an aircraft taking off or landing, appropriate action shall be 
+taken as follows:",cancel the take-off clearance for a departing aircraft;,instruct a landing aircraft to execute a go-around or missed approach;,in all cases inform the aircraft of the runway incursion or obstruction and its location in relation to the runway.,"A , B and C",D,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"The flight crew shall read back to the air traffic controller safety-related parts of ATC clearances and 
+instructions which are transmitted by voice. The following items shall always be read back:",ATC route clearances.,"clearances and instructions to enter, land on, take off from, hold short of, cross, taxi and backtrack on any 
+runway.","runway-in-use, altimeter settings, SSR codes, level instructions, heading and speed instructions and, whether 
+issued by the controller or contained in automatic terminal information service (ATIS) broadcasts, transition 
+levels.","A,B and C",D,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"For aircraft being provided with aerodrome control service, the initial call shall contain: 
+ a) designation of the station being called; 
+ b) call sign and, for aircraft in the heavy wake turbulence category, the word “Heavy”; 
+ c) position; and 
+ d) additional elements, as required by the appropriate ATS authority.","a) designation of the station being called; 
+ b) call sign and, for aircraft in the heavy wake turbulence category, the word “Heavy”; 
+ c) position.","a) designation of the station being called; 
+ b) call sign and, for aircraft in the heavy wake turbulence category, the word “Heavy”; 
+ c) position; and 
+ d) additional elements, as required by the appropriate ATS authority.","a) designation of the station being called; 
+ b) call sign and, for aircraft in the heavy wake turbulence category, the word “Heavy”;  
+ c) additional elements, as required by the appropriate ATS authority.","a) call sign and, for aircraft in the heavy wake turbulence category, the word “Heavy”; 
+ b) position; and 
+ c) additional elements, as required by the appropriate ATS authority.",B,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"In the event the aerodrome controller, after a take-off clearance or a landing clearance has been issued, 
+becomes aware of a runway incursion or the imminent occurrence thereof, or the existence of any obstruction on or in 
+close proximity to the runway likely to impair the safety of an aircraft taking off or landing, appropriate action shall be 
+taken as follows:","a) cancel the take-off clearance for a departing aircraft; 
+ b) instruct a landing aircraft to execute a go-around or missed approach","a) cancel the take-off clearance for a departing aircraft; 
+ b) instruct a landing aircraft to execute a go-around or missed approach; 
+ c) in all cases inform the aircraft of the runway incursion or obstruction and its location in relation to the runway.","a) cancel the take-off clearance for a departing aircraft; 
+ b) in all cases inform the aircraft of the runway incursion or obstruction and its location in relation to the runway.",non of above,B,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"If, following confirmation by the pilot that the correct aircraft identification has been set on the ADS-B 
+identification feature, the discrepancy continues to exist, the following actions shall be taken by the controller:","a) inform the pilot of the persistent discrepancy; 
+ b) where possible, correct the label showing the aircraft identification on the situation display; and 
+ c) notify the next control position and any other unit concerned of the erroneous aircraft identification transmitted 
+by the aircraft.","a) inform the pilot of the persistent discrepancy; 
+ b) where possible, correct the label showing the aircraft identification on the situation display","a) inform the pilot of the persistent discrepancy;  and 
+ b) notify the next control position and any other unit concerned of the erroneous aircraft identification transmitted 
+by the aircraft.",non of above,A,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+Air traffic control service shall be provided :,"to all IFR flights in airspace Classes A, B, C, D and E;","to all VFR flights in airspace Classes B, C and D;",to all special VFR flights and all aerodrome traffic at controlled aerodromes.,"A,B and C",D,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+The cruising levels at which a flight or a portion of a flight is to be conducted shall be in terms of:,"flight levels, for flights at or above the lowest usable flight level or, where applicable, above the transition altitude;","altitudes, for flights below the lowest usable flight level or, where applicable, at or below the transition altitude.",A and B,non of above,C,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+A runway-holding position or positions shall be established:,"on the taxiway, at the intersection of a taxiway and a runway",at an intersection of a runway with another runway when the former runway is part of a standard taxi-route.,A and B,non of above,C,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+"In case of danger of collision between two aircraft taxiing on the movement area of an aerodrome the 
+following shall apply:","when two aircraft are approaching head on, or approximately so, each shall stop or where practicable alter its course to the right so as to keep well clear;","when two aircraft are on a converging course, the one which has the other on its right shall give way;",an aircraft which is being overtaken by another aircraft shall have the right-of-way and the overtaking aircraft shall keep well clear of the other aircraft.,all of above,D,Minimum flight altitude ensures( according to Annex II rules of the air):,LTC_TWR
+The ADAMS project report suggests that the criteria should include the following:,"Compliance with technical standards and best
+practice;","• Effectiveness of management processes, i.e. an
+effective quality system based on elements such as
+the organization, standards, procedures, documentation, resource control, training and evaluation and
+feedback systems;",Measurement of safety outcomes,all of above.,D,The ability to monitor information which could indicate the development of a critical situation:,LTC_TWR
+"In the trainning as regulators drive towards a reduction in
+aviation accident and incident rates, they must take into
+consideration the following factors:","aircraft and their
+equipment are complex, the workload in maintenance
+organizations is heavy, and public safety has a high profile","the workload in maintenance
+organizations is heavy, and public safety has a high profile",a and b,None of above,C,The ability to monitor information which could indicate the development of a critical situation:,LTC_TWR
+"According to FAA Human Factors Guide for Aviation Maintenance,How many local factors identified :",9,10,11,12,D,The ability to monitor information which could indicate the development of a critical situation:,LTC_TWR
+"According to FAA Human Factors Guide for Aviation Maintenance,How many organizational factors identified :",5,6,7,8,D,The ability to monitor information which could indicate the development of a critical situation:,LTC_TWR
+"An effective shift turnover/handover process is
+composed of at least four components",Shift turnover/handover meetings;,Turnover/handover walkthroughs,Turnover/handover checklists; and Work status markers.,All of them,D,The ability to monitor information which could indicate the development of a critical situation:,LTC_TWR
+GR stands for,Mist,Fog,Hail,Rain,C,"The trend forecast shall indicate the expected onset, cessation or change in intensity of one or more of the following weather phenomena or combinations thereof:",LTC_TWR
+"Wind shear warnings shall give concise information on the observed or
+expected existence of wind shear which could adversely affect aircraft on the approach path or take-off path or during
+circling approach between runway level and .... above that level and aircraft on the runway during the landing
+roll or take-off run.",500 m (1 600 ft),300m,400m,200m,A,"The trend forecast shall indicate the expected onset, cessation or change in intensity of one or more of the following weather phenomena or combinations thereof:",LTC_TWR
+"When the height of the base of a cloud layer of BKN or OVC extent is expected to lift and change to or pass through one or
+more of the following values, or when the height of the base of a cloud layer of BKN or OVC extent is expected to lower and
+pass through one or more of the following values: ...... the trend
+forecast shall indicate the change","30, 60, 150, 300 and 450 m","60, 150, 300 and 450 m","30, 60, 150m and 450 m","150, 300 and 450 m",A,"The trend forecast shall indicate the expected onset, cessation or change in intensity of one or more of the following weather phenomena or combinations thereof:",LTC_TWR
+In the aviation meteorological sevice “Cloud of operational significance” shall be understood as:,a cloud with the height of cloud base below 1 500 m (5 000 ft),"a cloud below the highest minimum sector altitude, whichever is greater",a cumulonimbus cloud or a towering cumulus cloud at any height,All correct,D,"The trend forecast shall indicate the expected onset, cessation or change in intensity of one or more of the following weather phenomena or combinations thereof:",LTC_TWR
+Runway visual range should be assessed at a height of approximately..... above the runway.,"2,5m",5m,7.5m,10m,A,Emergency locator transmetter (ELT) is fitted _____ :,LTC_TWR
+"Classification based upon the potential risk resulting from the use of corrupted
+data. Aeronautical data is classified as:","a) routine data: there is a very low probability when using corrupted routine data that the continued safe flight and
+landing of an aircraft would be severely at risk with the potential for catastrophe;","b) essential data: there is a low probability when using corrupted essential data that the continued safe flight and
+landing of an aircraft would be severely at risk with the potential for catastrophe;","c) critical data: there is a high probability when using corrupted critical data that the continued safe flight and landing
+of an aircraft would be severely at risk with the potential for catastrophe.","a,b and c",D,Emergency locator transmetter (ELT) is fitted _____ :,LTC_TWR
+Aerodrome identification sign,A sign placed on an aerodrome to aid in identifying the aerodrome from the air.,Aeronautical beacon used to indicate the location of an aerodrome from the air.,A device to indicate visually the direction currently designated for landing and for take-off.,All of the above,A,Emergency locator transmetter (ELT) is fitted _____ :,LTC_TWR
+A precision approach category II & III lighting system shall be equipped with side row lights. State the colour of these lights:,1. White,2.  Green,3. Red,4.  Yellow,C,Emergency locator transmetter (ELT) is fitted _____ :,LTC_TWR
+Landing direction indicator,A sign placed on an aerodrome to aid in identifying the aerodrome from the air.,Aeronautical beacon used to indicate the location of an aerodrome from the air.,A device to indicate visually the direction currently designated for landing and for take-off.,All of the above,C,Emergency locator transmetter (ELT) is fitted _____ :,LTC_TWR
+"Measures designed to adjust the flow of traffic into a given airspace, along a given route, or bound for a given aerodrome, so as to ensure the most effective utilization of the airspace.
+That is definition of :",Flow Management Control (FMC),Flow Management System (FMS),Flow Control Center,Flow Control,D,A transmission of information relating to air navigation that is not addressed to a specific station or stations:,LTC_TWR
+What is an aerodrome control service including :,"Air traffic service, flight information service, meteorological and communication service.",Air traffic control service for aerodrome traffic,Control service for aircraft and vehicles in the aerodrome area,The service to be provided by aerodrome control tower.,B,A transmission of information relating to air navigation that is not addressed to a specific station or stations:,LTC_TWR
+The radar controller should inform the pilot of his position except in the following case:,The requests position information,The aircraft reports over a NAVAID,The aircraft resumes its own navigation,The controller observes that the aircraft has deviated from its intended route,B,A transmission of information relating to air navigation that is not addressed to a specific station or stations:,LTC_TWR
+Touchdown zone (TDZ) lights shall be provided in the touchdown zone of a precision approach runway …?,category I or III.,category II or III.,category I or II.,category I .,B,A transmission of information relating to air navigation that is not addressed to a specific station or stations:,LTC_TWR
+"Detailed description of declared distances to the nearest metre or foot, where relevant for a heliport, including:","1) take-off distance available; 
+2) rejected take-off distance available;
+3) landing distance available; and 
+4) remarks.","1) rejected take-off distance available;
+2) landing distance available; and 
+3) remarks.","1) take-off distance available; 
+2) landing distance available; and 
+3) remarks.","1) take-off distance available; 
+2) rejected take-off distance available;
+3) landing distance available; and",A,Each NOTAM shall be located a series identified by a letter and… followed by a stroke and a two digit number for the year:( annex15 item 5.2.5),LTC_TWR
+A checklist of AIP pages containing:,page number/chart title.,"publication or effective date (day, month by name and year) of the aeronautical information.",A and B,,C,Each NOTAM shall be located a series identified by a letter and… followed by a stroke and a two digit number for the year:( annex15 item 5.2.5),LTC_TWR
+A list of current hand amendments to the AIP containing:,1) AIP page(s) affected; 2) amendment text; and 3) AIP Amendment number by which a hand amendment was introduced.,1) AIP page(s) affected; 2) amendment text.,1) AIP page(s) affected; and 2) AIP Amendment number by which a hand amendment was introduced.,AIP Amendment number by which a hand amendment was introduced.,A,Each NOTAM shall be located a series identified by a letter and… followed by a stroke and a two digit number for the year:( annex15 item 5.2.5),LTC_TWR
+"Brief description of the vertical reference system used, including: 
+1) name/designation of the reference system; 
+2) description of the geoid model used including the parameters required for height transformation between the model used and EGM-96; 
+3) an explanation, if applicable, of the asterisk used to identify those elevations/geoid undulations that do not meet Annex 14 accuracy requirements.",1 and 2.,2 and 3.,1 and 3.,"1, 2 and 3.",D,Each NOTAM shall be located a series identified by a letter and… followed by a stroke and a two digit number for the year:( annex15 item 5.2.5),LTC_TWR
+"A list of radio navigation aids arranged alphabetically, containing:","1) identifier; 
+2) name of the station; 
+3) type of facility/aid; and 
+4) indication whether aid serves en-route (E), aerodrome (A) or dual (AE) purposes.","1) identifier; 
+2) name of the station; 
+3) type of facility/aid; and","1) name of the station; 
+2) type of facility/aid; and 
+3) indication whether aid serves en-route (E), aerodrome (A) or dual (AE) purposes.","1) identifier; 
+2) name of the station; 
+3) indication whether aid serves en-route (E), aerodrome (A) or dual (AE) purposes.",A,Each NOTAM shall be located a series identified by a letter and… followed by a stroke and a two digit number for the year:( annex15 item 5.2.5),LTC_TWR
